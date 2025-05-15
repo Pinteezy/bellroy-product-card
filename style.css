@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    background: #f9f9f9;
+    padding: 40px;
+  }
+  
+  .product-card {
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    padding: 16px;
+    border-radius: 12px;
+    background: white;
+  }
+  
